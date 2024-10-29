@@ -1,7 +1,7 @@
 # LTEProject
 
-Assets &amp; based by GoldMetal
-참가 문의 : <2358006@mokwon.ac.kr>
+- Assets &amp; based by GoldMetal
+- 참가 문의 : <2358006@mokwon.ac.kr>
 
 ## 수업 PPT
 모든 문의 사항은 <2358006@mokwon.ac.kr> 로 메일 주세요.
