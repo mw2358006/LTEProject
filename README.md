@@ -1,4 +1,4 @@
-# LTEProject
+# **LTEProject**
 
 - Assets &amp; based by GoldMetal
 - 참가 문의 : <2358006@mokwon.ac.kr>
@@ -7,6 +7,7 @@
 모든 문의 사항은 <2358006@mokwon.ac.kr> 로 메일 주세요.
 - [OT](https://docs.google.com/presentation/d/1HoeghFjhRJanzUioQRCbIZEAF4lV7u8g0_umjY0BWxY/) 
 - [1 주차](https://docs.google.com/presentation/d/107gYbdRnOS0gAFrYrHZuLbidG8qymd8y-ixp79lCbcE)
+- [2 주차](https://docs.google.com/presentation/d/1fFO58RfH15fk1lkUJGuFOWnTQFTovhdufH3gpiwAEJQ)
 
 ## 소개
 이 프로젝트는 유니티 스터디에서 최초로 시작되어 일년에 한바퀴를 돌면서 참가한 사람에게 행운을 주었고 지금은 당신에게 참가의사를 묻는 이 프로젝트는 3일 안에 참가 여부를 정해야 합니다. 이 프로젝트를 포함해서 다양한 스터디를 실력향상이 필요한 사람에게 추천해 주어야 합니다. 혹 미신이라 하실지 모르지만 사실입니다.
