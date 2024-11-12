@@ -48,7 +48,7 @@ public class PlayerMove : MonoBehaviour
         {
             rigid.velocity = new Vector2(maxSpeed, rigid.velocity.y);
         }
-        else if(rigid.velocity.x) // 왼쪽 최대 속도 도달시
+        else if() // 왼쪽 최대 속도 도달시
         {
             
         }
