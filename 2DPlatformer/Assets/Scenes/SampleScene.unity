@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 283506510}
   - component: {fileID: 283506511}
   - component: {fileID: 283506512}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -263,7 +263,7 @@ GameObject:
   - component: {fileID: 332831554}
   - component: {fileID: 332831555}
   - component: {fileID: 332831556}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -497,7 +497,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 428624216}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Map
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -635,7 +635,7 @@ GameObject:
   - component: {fileID: 929904444}
   - component: {fileID: 929904445}
   - component: {fileID: 929904446}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -778,15 +778,15 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1257068329}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5, y: -1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1319792986}
   - {fileID: 410249654}
   - {fileID: 2141510430}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 2016302811}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1285570528
 GameObject:
@@ -799,7 +799,7 @@ GameObject:
   - component: {fileID: 1285570529}
   - component: {fileID: 1285570530}
   - component: {fileID: 1285570531}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -929,7 +929,7 @@ GameObject:
   - component: {fileID: 1306305264}
   - component: {fileID: 1306305265}
   - component: {fileID: 1306305266}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1165,7 +1165,7 @@ GameObject:
   - component: {fileID: 1324442031}
   - component: {fileID: 1324442032}
   - component: {fileID: 1324442033}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1295,7 +1295,7 @@ GameObject:
   - component: {fileID: 1424040114}
   - component: {fileID: 1424040115}
   - component: {fileID: 1424040116}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1425,7 +1425,7 @@ GameObject:
   - component: {fileID: 1500689750}
   - component: {fileID: 1500689751}
   - component: {fileID: 1500689752}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1555,7 +1555,7 @@ GameObject:
   - component: {fileID: 1581572183}
   - component: {fileID: 1581572184}
   - component: {fileID: 1581572185}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1868,6 +1868,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxSpeed: 3
+  jumpPower: 10
 --- !u!1 &1712486725
 GameObject:
   m_ObjectHideFlags: 0
@@ -1879,7 +1880,7 @@ GameObject:
   - component: {fileID: 1712486726}
   - component: {fileID: 1712486727}
   - component: {fileID: 1712486728}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2009,7 +2010,7 @@ GameObject:
   - component: {fileID: 1728882040}
   - component: {fileID: 1728882041}
   - component: {fileID: 1728882042}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2139,7 +2140,7 @@ GameObject:
   - component: {fileID: 1767564120}
   - component: {fileID: 1767564121}
   - component: {fileID: 1767564122}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2414,7 +2415,8 @@ Transform:
   m_LocalPosition: {x: -5, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1257068330}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &2016302812
@@ -2449,7 +2451,7 @@ GameObject:
   - component: {fileID: 2098800869}
   - component: {fileID: 2098800870}
   - component: {fileID: 2098800871}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Single
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2681,5 +2683,4 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 1645686936}
   - {fileID: 2016302811}
-  - {fileID: 1257068330}
   - {fileID: 428624216}
