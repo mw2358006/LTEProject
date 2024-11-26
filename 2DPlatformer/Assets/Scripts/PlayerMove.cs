@@ -18,7 +18,6 @@ public class PlayerMove : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         anim = GetComponent<Animator>();
     }
- 
     /* 단타 or 판정 같은 곳에서 사용 */
     void Update()
     {
