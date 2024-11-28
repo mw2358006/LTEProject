@@ -28,14 +28,14 @@ public class PlayerMove : MonoBehaviour
             anim.SetBool("isJumping", true);
         }
         // 버튼에서 키 땔 떄(정지)
-        if (Input.GetButtonUp("Horizontal"))
+        if(Input.GetButtonUp("Horizontal"))
         {
             /*normalized : 벡터 크기를 1로 만듦(단위벡터 상태)*/
             rigid.velocity = new Vector2(rigid.velocity.normalized.x * 0.5f, rigid.velocity.y); 
         } 
 
         // 방향 전환
-        if (Input.GetButtonDown("Horizontal"))
+        if(Input.GetButtonDown("Horizontal"))
         {
             /* Flip : 스프라이트를 뒤집기 */
             spriteRenderer.flipX = Input.GetAxisRaw("Horizontal") == -1;
