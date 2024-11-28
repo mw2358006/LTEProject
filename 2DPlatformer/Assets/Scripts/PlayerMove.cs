@@ -81,7 +81,7 @@ public class PlayerMove : MonoBehaviour
         if(rigid.velocity.y < 0)
         {
             /* RayCast : 오브젝트 검색을 위해서 Ray를 쏘는 방식 */
-            /* DrawRay : 에디터 상에서 만 RAy를 그리는 함수. */
+            /* DrawRay : 에디터 상에서 만 Ray를 그리는 함수. */
             Debug.DrawRay(rigid.position,Vector3.down, new Color(0, 1, 0));
             /* RayCastHit : Ray에 닿은 오브젝트 */ 
             RaycastHit2D rayHit = Physics2D.Raycast(rigid.position, Vector3.down, 1, LayerMask.GetMask("Platform"));
