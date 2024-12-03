@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-/* 진행순서 : Awake > Start > Update > FixedUpdate */
+/* 진행순서 : Awake > Start > Update > FixedUpdate > LateUpdate */
 
 public class PlayerMove : MonoBehaviour
 {
