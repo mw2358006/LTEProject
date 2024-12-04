@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 /* 진행순서 : Awake > Start > Update > FixedUpdate > LateUpdate */
@@ -75,7 +74,7 @@ public class PlayerMove : MonoBehaviour
         }
 
         /* Mathf.Abs : 절댓값을 구하는 함수. */
-        Debug.Log("현재 속도 : " + Mathf.Abs(rigid.velocity.x));
+        // Debug.Log("현재 속도 : " + Mathf.Abs(rigid.velocity.x));
 
         /* 착지 */
         if(rigid.velocity.y < 0)
