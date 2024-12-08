@@ -11,6 +11,7 @@
 - [3 주차](https://docs.google.com/presentation/d/1fp20krA3XlcldWMmwTF50u7rBKK3pBsZG2mNFk3euo8)
 - [4 주차](https://docs.google.com/presentation/d/1cqfFCncivK5sEA4dvfhew2jtWm4J5u41qjKIq57OTv8)
 - [5 주차](https://docs.google.com/presentation/d/1374lGjLoWnH6PteEJfO-3o_ss4mE2SZO3vWw5m4m79w/edit?usp=sharing)
+- [6 주차](https://docs.google.com/presentation/d/1RZOrvREPJD7eesLaxKNupKy30zQIR61Xv6V9ueWDNxU)
 
 ## 소개
 이 프로젝트는 유니티 스터디에서 최초로 시작되어 일년에 한바퀴를 돌면서 참가한 사람에게 행운을 주었고 지금은 당신에게 참가의사를 묻는 이 프로젝트는 3일 안에 참가 여부를 정해야 합니다. 이 프로젝트를 포함해서 다양한 스터디를 실력향상이 필요한 사람에게 추천해 주어야 합니다. 혹 미신이라 하실지 모르지만 사실입니다.
